@@ -1,1 +1,1 @@
-# OtusJavaQAProfessional_homework4_testInfrastructure
+# OtusJavaQAProfessional_homework4_TestInfrastructure
